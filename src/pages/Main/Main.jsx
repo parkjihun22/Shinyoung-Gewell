@@ -185,7 +185,7 @@ const handleInputChange = (e) => {
           content="신영지웰 평택화양, 평택화양 신영지웰, 평택화양 신영지웰 모델하우스"
         />
         <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://www.beyinegzersizi.com/" />
+        <link rel="canonical" href="https://delidilly.co.kr/" />
 
         {/* 모바일 친화성을 위한 추가 태그 */}
         <meta name="HandheldFriendly" content="True" />
@@ -200,11 +200,11 @@ const handleInputChange = (e) => {
           property="og:description"
           content="신영지웰 평택화양ㅣ☎1533-8848ㅣ신영지웰 평택화양 모델하우스ㅣ모델하우스ㅣ분양가 ㅣ방문 예약ㅣ위치 안내ㅣ화양지구 9-1BL 일원"
         />
-        <meta property="og:url" content="https://www.beyinegzersizi.com/" />
+        <meta property="og:url" content="https://delidilly.co.kr/" />
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://www.beyinegzersizi.com/Main1.png" // 실제 메인 이미지 URL로 변경하세요.
+          content="https://delidilly.co.kr/Main1.png" // 실제 메인 이미지 URL로 변경하세요.
         />
 
         {/* Twitter 카드 설정 */}
@@ -219,7 +219,7 @@ const handleInputChange = (e) => {
         />
         <meta
           name="twitter:image"
-          content="https://www.beyinegzersizi.com/Main1.png" // 실제 이미지 URL로 변경하세요.
+          content="https://delidilly.co.kr/Main1.png" // 실제 이미지 URL로 변경하세요.
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도를 높이기 위한 스키마 마크업 */}
@@ -230,8 +230,8 @@ const handleInputChange = (e) => {
         "@type": "ApartmentComplex",
         "name": "신영지웰 평택화양",
         "description": "브랜드 평판 1위 프리미엄 아파트. 방문 예약 시 신세계상품권 증정 등 다양한 혜택을 제공합니다.",
-        "url": "https://www.beyinegzersizi.com/",
-        "image": "https://www.beyinegzersizi.com/Main1.png",
+        "url": "https://delidilly.co.kr/",
+        "image": "https://delidilly.co.kr/Main1.png",
         "telephone": "1533-8848",
         "address": {
           "@type": "PostalAddress",

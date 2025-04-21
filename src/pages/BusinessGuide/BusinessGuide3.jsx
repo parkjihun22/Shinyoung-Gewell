@@ -83,7 +83,7 @@ const BusinessGuide2 = () => {
 		/>
 		<link
 		  rel="canonical"
-		  href="https://www.beyinegzersizi.com/BusinessGuide/documents"
+		  href="https://delidilly.co.kr/BusinessGuide/documents"
 		/>
 
 		{/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -98,11 +98,11 @@ const BusinessGuide2 = () => {
 		/>
 		<meta
 		  property="og:image"
-		  content="https://www.beyinegzersizi.com/Main1.png"
+		  content="https://delidilly.co.kr/Main1.png"
 		/>
 		<meta
 		  property="og:url"
-		  content="https://www.beyinegzersizi.com/BusinessGuide/documents"
+		  content="https://delidilly.co.kr/BusinessGuide/documents"
 		/>
 		<meta property="og:site_name" content="신영지웰 평택화양" />
 
@@ -119,11 +119,11 @@ const BusinessGuide2 = () => {
 		/>
 		<meta
 		  name="twitter:image"
-		  content="https://www.beyinegzersizi.com/Main1.png"
+		  content="https://delidilly.co.kr/Main1.png"
 		/>
 		<meta
 		  name="twitter:url"
-		  content="https://www.beyinegzersizi.com/BusinessGuide/documents"
+		  content="https://delidilly.co.kr/BusinessGuide/documents"
 		/>
 
 		{/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -135,7 +135,7 @@ const BusinessGuide2 = () => {
 											"name": "신영지웰 평택화양 - 당첨자 서류안내",
 											"description": "신영지웰 평택화양 선착순계약을 위한 필수 서류 목록과 준비 절차를 안내합니다. 간단하고 명확한 정보로 청약 당첨 후 필요한 준비를 돕고, 서류 제출에 문제가 없도록 상세한 가이드를 제공합니다
 ",
-											"url": "https://www.beyinegzersizi.com/BusinessGuide/documents"
+											"url": "https://delidilly.co.kr/BusinessGuide/documents"
 										}
 										`}
 		</script>

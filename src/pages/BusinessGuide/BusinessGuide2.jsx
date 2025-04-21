@@ -73,7 +73,7 @@ const BusinessGuide2 = () => {
         />
         <link
           rel="canonical"
-          href="https://www.beyinegzersizi.com/BusinessGuide/plan"
+          href="https://delidilly.co.kr/BusinessGuide/plan"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -88,11 +88,11 @@ const BusinessGuide2 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://delidilly.co.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.beyinegzersizi.com/BusinessGuide/plan"
+          content="https://delidilly.co.kr/BusinessGuide/plan"
         />
         <meta property="og:site_name" content="신영지웰 평택화양" />
 
@@ -109,11 +109,11 @@ const BusinessGuide2 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://delidilly.co.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.beyinegzersizi.com/BusinessGuide/plan"
+          content="https://delidilly.co.kr/BusinessGuide/plan"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -125,7 +125,7 @@ const BusinessGuide2 = () => {
                                             "name": "신영지웰 평택화양 - 분양일정",
                                             "description": "신영지웰 평택화양의 최신 분양일정을 확인하고, 분양 일정 및 세부 사항을 이 페이지에서 자세히 확인하세요. 놓치지 마세요!
 ",
-                                            "url": "https://www.beyinegzersizi.com/BusinessGuide/plan"
+                                            "url": "https://delidilly.co.kr/BusinessGuide/plan"
                                         }
                                         `}
         </script>

@@ -74,7 +74,7 @@ const Interior1 = () => {
         />
         <link
           rel="canonical"
-          href="https://www.beyinegzersizi.com/Interior/59A"
+          href="https://delidilly.co.kr/Interior/59A"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -89,11 +89,11 @@ const Interior1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://delidilly.co.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.beyinegzersizi.com/Interior/59A"
+          content="https://delidilly.co.kr/Interior/59A"
         />
         <meta property="og:site_name" content="신영지웰 평택화양" />
 
@@ -110,11 +110,11 @@ const Interior1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://delidilly.co.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.beyinegzersizi.com/Interior/59A"
+          content="https://delidilly.co.kr/Interior/59A"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -126,7 +126,7 @@ const Interior1 = () => {
 											"name": "신영지웰 평택화양 - 인테리어",
 											"description": "인테리어 페이지에서는 신영지웰 평택화양의 고급 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
 ",
-											"url": "https://www.beyinegzersizi.com/Interior/59A"
+											"url": "https://delidilly.co.kr/Interior/59A"
 										}
 										`}
         </script>
