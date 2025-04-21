@@ -74,6 +74,7 @@ const Footer = () => {
           <div className={styles.mobileCompany}>
   
             <div>
+            <strong>eyeful31@naver.com[박지훈]</strong> 
               <strong>시&nbsp;공&nbsp;사</strong> (주)지웰건설
             </div>
           </div>
@@ -131,6 +132,7 @@ const Footer = () => {
               <div className={styles.companyInfo}>
             
                 <div>
+                <strong>eyeful31@naver.com[박지훈]</strong> 
                   <strong>시&nbsp;공&nbsp;사</strong> (주)지웰건설 
                 </div>
               </div>
